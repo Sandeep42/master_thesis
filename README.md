@@ -1,5 +1,4 @@
-### Development of cavity and microstrip resonators for electron spin
-resonance experiments
+### Development of cavity and microstrip resonators for electron spin resonance experiments
 
 Electron spin resonance is used as a spectroscopic tool for studying magnetic systems in
 many areas of science. Generally, cavity resonators are used to generate the oscillating
